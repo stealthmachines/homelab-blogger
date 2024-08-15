@@ -6,7 +6,7 @@ This project provides a one-click solution for deploying a homelab that includes
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-repo/homelab.git
+    git clone https://github.com/stealthmachines/homelab-blogger.git
     cd homelab
     ```
 
