@@ -63,5 +63,3 @@ HTML Templates: Used for the web form and extension UI.
 This setup enables users to easily deploy, configure, and join a homelab network, where instances can automatically discover and interact with each other using a search engine homepage.
 
 Feel free to customize and extend the solution to suit your needs!
-
-MORE INFORMATION: https://chatgpt.com/share/5b70e3dd-f9df-4d0a-98ca-4490550e4cad
